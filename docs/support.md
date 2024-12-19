@@ -33,7 +33,7 @@ Both Listeners and Whisperers enter their names to make it clear who's in the co
 
 ### My browser used to know my name -- why did it forget?
 
-The browser will forget your name if you clear cookies for the site [server.whisper-project.org](https://server.whisper-project.org), and you will be asked for your name again the next time you join a conversation.
+The browser will forget your name if you clear cookies for the site [whisper.whisper-project.org](https://whisper.whisper-project.org), and you will be asked for your name again the next time you join a conversation.
 
 ### How do I change my name?
 
